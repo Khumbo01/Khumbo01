@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Khumbo01
-- 👀 I’m interested in web development front-end...
-- 🌱 I’m currently learning back-end webdevelopment...
-- 💞️ I’m looking to collaborate on ...ecomerce website
-- 📫 How to reach me ...mwandirakhumb2020@gmail.com
+- 👀 I’m interested in web development front-end
+- 🌱 I’m currently learning back-end webdevelopment
+- 💞️ I’m looking to collaborate on ecomerce website
+- 📫 How to reach me: mwandirakhumb2020@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im left-handed programmer
 
