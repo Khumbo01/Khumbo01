@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ecomerce website
 - 📫 How to reach me: mwandirakhumb2020@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: im left-handed programmer
+- ⚡ Fun fact: I love exploring new technologies and improving my coding skills
 
 <!---
 Khumbo01/Khumbo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
